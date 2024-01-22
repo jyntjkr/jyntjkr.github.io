@@ -1,1 +1,1 @@
-# jyntjkr.github.io
+# Personal website.
